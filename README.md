@@ -1,4 +1,4 @@
 Resumo Framework PHP
 
 
-hxPHP
+hxPHP framework
